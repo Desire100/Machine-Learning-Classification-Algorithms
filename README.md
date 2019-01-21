@@ -1,7 +1,9 @@
 # Classifiaction-models
 This repository contains different classification models such as Logistic_Regression, K-Nearest Neighbors, Support_Vestor_Machine (SVM), Kernel SVM and Naive_Bayes.
 
-1. Logistic_regression is simply defined as a linear classifier
+1. Logistic_regression is simply defined as a linear classifier.
+
+2. K-NN: here are the steps on how to implemnet this model.  choose the number of K of neighbors, take the K nearest neighbors og the new data point according to the Euclidean diatance, Among these K neighbors count the number of daa points in each category and then assign the new data point to the category where yoiu counted the most neighbors.
 
 the datasets are provided in .csv file. the description of each datasedt and the task to perfom are given below.
 
