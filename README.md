@@ -11,6 +11,7 @@ Our matrix of featyres is only going to be these two columns. we want to find so
 2. K-NN: here are the steps on how to implemnet this model.  choose the number of K of neighbors, take the K nearest neighbors of the new data point according to the Euclidean diatance, Among these K neighbors count the number of daa points in each category and then assign the new data point to the category where yoiu counted the most neighbors.
 
 3.Support Vestor Machine ( SVM): helps us find the decision boundary or correctly place of that decisiion boundary.
+
 4. Kernel SVM: from the SVM intuition, what happens if we cant find a boundary? what do we do? the SVM has the assumption that the data is separable basically saying that it is possible to place the decision boundary 
 
    
